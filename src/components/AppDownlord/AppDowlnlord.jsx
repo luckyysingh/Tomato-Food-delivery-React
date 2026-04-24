@@ -6,7 +6,7 @@ const AppDowlnlord = () => {
   return (
     <div className="app-downlord" id="app-download">
       <p>
-        For Batter Experience Downlord <br /> Tomato app
+        For Batter Experience Download <br /> Tomato app
       </p>
       <div className="app-downlord-paltforms">
         <img src={assets.play_store} alt="" />
